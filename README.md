@@ -57,9 +57,16 @@ Focus       : Threat Detection, SIEM/SOAR, Incident Response, Blue Team Operatio
 ---
 
 ### 🌐 Wazuh Ambassador — *Wazuh* | California, US | Jan 2026 – Present
-- **Officially selected** as Wazuh Ambassador, representing Pakistan globally
+
+[![Wazuh Ambassador](https://img.shields.io/badge/🛡️_Official_Wazuh_Ambassador-Pakistan_🇵🇰-00adef?style=for-the-badge)](https://wazuh.com/ambassadors/saif-ullah/)
+
+> *"I like Wazuh because it turns scattered security data into clear, actionable insights. It gives me hands-on control to detect threats, monitor systems centrally, and build a scalable SOC using real-world scenarios rather than just theory."*
+
+- **Officially selected** as Wazuh Ambassador, representing Pakistan globally 🇵🇰
+- Deployed real-time Wazuh environments for organizations in **USA, New Zealand, and Pakistan**
 - Contributing to Wazuh community via technical content, labs, and SOC use cases
 - Promoting **Wazuh SIEM adoption** and best practices internationally
+- Available for: Blogposts, Webinars, Tutorials, Community Support
 
 ---
 
